@@ -58,3 +58,32 @@ The solution consolidates sales information from multiple financial years into a
 ### Data Consolidation
 - Unified reporting across multiple financial years
 - Centralized sales repository
+
+## Dataset Summary
+
+| Metric | Value |
+|----------|----------|
+| Records | 17,894+ |
+| Financial Years | 4 |
+| Dealers | 270 |
+| Zones | 5 |
+| Vehicle Models | 6 |
+| Search Modules | Invoice & Chassis |
+
+## Tools Used
+
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- XLOOKUP
+- Data Validation
+- Dashboard Design
+- Business Reporting
+
+## Business Impact
+
+- Centralized sales reporting across multiple financial years
+- Reduced manual effort in invoice and chassis tracking
+- Improved data accessibility for business users
+- Enabled faster management decision-making through dashboard visibility
+- Established a single source of truth for sales reporting.
