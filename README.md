@@ -74,6 +74,10 @@ The solution consolidates sales information from multiple financial years into a
 
 - Microsoft Excel
 - Power Query
+- Filter
+- Conditioning formatting
+- Macros
+- Charts
 - Pivot Tables
 - XLOOKUP
 - Data Validation
